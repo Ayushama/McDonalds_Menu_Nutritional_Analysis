@@ -20,7 +20,7 @@ To ensure accuracy and consistency in the analysis, several cleaning steps were 
 - **Category Comparisons:** Salads typically have fewer calories but can contain surprisingly high sodium levels, often due to dressings and toppings.  
 - **Sugar Levels:** Beverages and desserts stand out as the biggest contributors of sugar on the menu, sometimes containing more sugar than expected.
 
-## Visualizations Included  
+## Visualizations Included   
 The project features a variety of charts and plots that help visualize these insights:  
 - Bar charts that compare average calorie counts across different categories.  
 - Scatter plots illustrating the balance (or trade-offs) between calories and protein in menu items.  
