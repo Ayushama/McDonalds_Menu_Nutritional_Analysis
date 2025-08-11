@@ -35,7 +35,7 @@ The project features a variety of charts and plots that help visualize these ins
 - **Sugar Alert:** Specialty beverages can contain more sugar than desserts, so it’s worth checking nutritional info before indulging.  
 - **Practical Tips:** To make healthier choices at McDonald's, opt for grilled proteins, avoid upsizing meals, and be cautious about sauces, dressings, and sugary drinks.
 
-## 🔗 Repository
+## Repository
 
 Explore the full project, including code, data, and visualizations, on GitHub:  
 👉 [https://github.com/Ayushama/McDonalds_Menu_Nutritional_Analysis](https://github.com/Ayushama/McDonalds_Menu_Nutritional_Analysis)
